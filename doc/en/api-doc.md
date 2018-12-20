@@ -345,12 +345,9 @@ OP:|"OP prefix": Mobile carrier
 
 Error_code|Description
 -----|-------
-YC:13|营销短信暂停发送
-YC:20|不支持的国家地区
-YC:MOBILE BLACK	|号码在账号黑名单中，不扣费
 YC:NO BALANCE|Insufficient balance and transaction failed
 YC:NOOP|Invalid channel.YCloud will not charge the SMS. 
-YC:NOSEND|无效通道，不扣费
+
 
 
 
