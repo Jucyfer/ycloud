@@ -326,10 +326,10 @@ Status|Description|
 Unaccepted|Your request is rejected by YCloud
 Accepted|YCloud has received your API request to send a message 
 Failed|The message could not be sent. This can happen for reasons including insufficient balance or invalid channels. Error code: YC:XXXXXX
-Delivering|YCloud is in the process of dispatching your message and waiting for delivery report to return
+Sent|YCloud is in the process of dispatching your message and waiting for delivery report to return
 Delivered|YCloud has received confirmation of message delivery 
 Undelivered|Failed to return by mobile carrier. Error code：OP:XXXXXXX（Including request to MC）
-Expired|expire_secs expired,we were unable to deliver the message because the device was possibly not connected with A2P network.
+
 
 #### Appendix 2.error_code
 
