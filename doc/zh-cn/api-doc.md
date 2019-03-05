@@ -326,10 +326,10 @@ status|描述|
 unaccepted|未接受
 accepted|接口提交成功
 failed|其它原因未提交供应商。我们对应的有mc余额不足或无效通道。 对应错误码： YC:XXXXXX
-delivering|通道已分配,状态报告待返回
+sent|通道已分配,状态报告待返回
 delivered|已经下发
 undelivered|供应商返回失败，对应错误码：OP:XXXXXXX （包含mc提交失败返回）
-expired|expire_secs过期,用户提交后,超过时间未提交至运营商,则不再提交
+
 
 #### 附录2.error_code
 
